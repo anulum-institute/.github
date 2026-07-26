@@ -15,6 +15,7 @@ Anulum Institute — GitHub organisation profile
 <p align="center">
   <a href="https://anulum.li">Website</a> ·
   <a href="https://github.com/anulum">Principal engineer</a> ·
+  <a href="https://github.com/sponsors/anulum">Support open work</a> ·
   <a href="https://orcid.org/0009-0009-3560-0851">ORCID</a> ·
   <a href="https://github.com/sponsors/anulum">Support open work</a> ·
   <a href="mailto:protoscience@anulum.li">protoscience@anulum.li</a>
